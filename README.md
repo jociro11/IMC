@@ -1,5 +1,5 @@
 # Introdução
-Este projecto faz o cáculo do IMC(Índice de Massa Corpórea) 
+Este projecto faz o cálculo do IMC(Índice de Massa Corpórea) 
 
 Seguem-se assim os passos para rodar o projecto:
 
